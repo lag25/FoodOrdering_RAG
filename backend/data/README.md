@@ -1,4 +1,4 @@
-#Data
+# Data
 
 Scripts to set up the backend environment (SQL and Vector):
 
